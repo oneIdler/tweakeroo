@@ -746,11 +746,11 @@
   "tweakeroo.message.toggled_snap_aim_on_both": "Toggled Yaw & Pitch Snap Aim %s, with yaw step %s, pitch step %s",
   "tweakeroo.message.toggled_snap_aim_on_pitch": "Toggled Pitch Snap Aim %s, with pitch step size %s degrees",
   "tweakeroo.message.toggled_snap_aim_on_yaw": "Toggled Yaw Snap Aim %s, with yaw step size %s degrees",
-  "tweakeroo.message.toggled_zoom_on": "Toggled zoom %s, FOV: %s",
-  "tweakeroo.message.unfocusing_game": "§6Un-focusing§f the game (un-grabbing the cursor)",
-  "tweakeroo.message.value.off": "OFF",
-  "tweakeroo.message.value.on": "ON",
+  "tweakeroo.message.toggled_zoom_on": "调整缩放视角 %s, 视角范围为: %s",
+  "tweakeroo.message.unfocusing_game": "§6失焦§f 游戏窗口",
+  "tweakeroo.message.value.off": "关闭",
+  "tweakeroo.message.value.on": "开启",
 
-  "tweakeroo.message.warning.block_type_break_restriction": "§6Block breaking prevented by Block Type Break Restriction tweak",
-  "tweakeroo.message.warning.entity_type_attack_restriction": "§6Entity attack prevented by Entity Type Attack Restriction tweak"
+  "tweakeroo.message.warning.block_type_break_restriction": "§6方块破坏类型限制调整为防止破坏方块",
+  "tweakeroo.message.warning.entity_type_attack_restriction": "§6实体攻击类型限制调整为防止攻击实体"
 }
